@@ -11,6 +11,8 @@ Amazon services has one feature called "Verified Purchases" to indicate whether 
 
 DATASET: https://bit.ly/2Rzvjqf [KAGGLE]
 
+main dataset used: amazon_reviews_2019.csv
+
 
 
 # INFO
