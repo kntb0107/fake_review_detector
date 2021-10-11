@@ -4,6 +4,5 @@ seaborn==0.10.1
 textblob==0.15.3
 nltk==3.5.0
 regex==2020.6.8
-skit-learn==0.23.1
-streamlit==0.88.0
+scikit-learn==0.23.1
 pickle-mixin==1.0.2
