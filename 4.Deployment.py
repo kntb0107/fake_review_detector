@@ -11,6 +11,8 @@ import re
 model = pickle.load(open('data and pickle files/best_model.pkl','rb'))
 vectorizer = pickle.load(open('data and pickle files/count_vectorizer.pkl','rb'))
 
+#FOR STREAMLIT
+nltk.download('stopwords')
 
 #TEXT PREPROCESSING
 sw = set(stopwords.words('english'))
