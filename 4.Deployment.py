@@ -8,8 +8,8 @@ import re
 
 
 #LOAD PICKLE FILES
-model = pickle.load(open('best_model.pkl','rb'))
-vectorizer = pickle.load(open('count_vectorizer.pkl','rb'))
+model = pickle.load(open('Fraud-Detection-in-Online-Consumer-Reviews-Using-Machine-Learning-Techniques/data and pickle files/best_model.pkl','rb'))
+vectorizer = pickle.load(open('Fraud-Detection-in-Online-Consumer-Reviews-Using-Machine-Learning-Techniques/data and pickle files/count_vectorizer.pkl','rb'))
 
 
 #TEXT PREPROCESSING
