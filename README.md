@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/yourGitHubName/yourRepo/yourApp/)
+
 # Fraud-Detection-in-Online-Consumer-Reviews-Using-Machine-Learning-Techniques
 Final Year Project describing the path to creating classifiers which aids in identifying the fake reviews from the real one using an Amazon dataset.
 
