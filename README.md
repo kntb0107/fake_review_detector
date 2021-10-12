@@ -15,7 +15,6 @@ This project has already been deployed online, and hence you can simply click th
 # MISC
 
 Notes:
-Amazon services has one feature called "Verified Purchases" to indicate whether the product has been purchased [https://bit.ly/3wpnpyi]
 
 DATASET: https://bit.ly/2Rzvjqf [KAGGLE]
 
