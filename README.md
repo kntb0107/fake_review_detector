@@ -14,8 +14,6 @@ This project has already been deployed online, and hence you can simply click th
 
 # MISC
 
-Notes:
-
 DATASET: https://bit.ly/2Rzvjqf [KAGGLE]
 
 main dataset used: amazon_reviews_2019.csv
