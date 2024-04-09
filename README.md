@@ -1,4 +1,5 @@
-https://fakereviewdetectorv1.streamlit.app/?embed_options=dark_theme
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://share.streamlit.io/andfanilo/streamlit-css-button/example/app.py](https://fakereviewdetectorv1.streamlit.app/))
+
 
 # Fraud Detection in Online Consumer Reviews Using Machine Learning Techniques
 Final Year Project describing the path to creating classifiers which aids in identifying the fake reviews from the real one using an Amazon dataset.
